@@ -37,7 +37,7 @@ async def help_cmd(client: Client, message: Message):
                         "💫 sᴜᴩᴩᴏʀᴛ 💫", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        "❄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ❄", url="https://t.me/{SUPPORT_GROUP}"
+                        "💲 ᴅᴏɴᴀᴛᴇ 💲", url="https://t.me/Shriyansh92"
                     )
                 ],
                 [
