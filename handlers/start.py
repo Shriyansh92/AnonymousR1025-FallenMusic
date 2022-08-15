@@ -43,7 +43,7 @@ async def start_(client: Client, message: Message):
                         "🔎 ɪɴʟɪɴᴇ 🔎", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "🤯 ᴏᴡɴᴇʀ 🤯", url="https://t.me/{me}"
+                        "♥️ ᴄʜᴀɴɴᴇʟ ♥️", url="https://t.me/SPORTFY_MUSIC_UPDATE"
                     )]
             ]
        ),
