@@ -64,7 +64,7 @@ The easiest way to host this bot, Deploy on Heroku, Change the app country to Eu
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/AnonymousR1025/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Shriyansh92/AnonymousR1025/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
@@ -83,16 +83,3 @@ cp example.env .env #Use vim to edit ENVs
 vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
 python3 main.py # Run the bot
 ```
-
-### ᴄʀᴇᴅɪᴛs 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025): Developer
-- [Fallen Music Bot](https://telegram.me/fallen_music_bot): Test Bot
-
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-### Support & Developer 🎑
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-------------------------------------------------
--------------------------------------------------
